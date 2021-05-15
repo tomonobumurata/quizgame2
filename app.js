@@ -41,9 +41,9 @@ const quiz = [
       '髪の毛',
       'お金',
       'ラーメン',
-      '阿部日向子'
+      '彼女'
     ],
-    correct: '阿部日向子'
+    correct: '彼女'
   },
 ];
 const quizLength = quiz.length;
